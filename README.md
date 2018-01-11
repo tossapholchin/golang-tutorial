@@ -9,3 +9,4 @@
 * [Golang Part 5 : Receiver Functions](https://goo.gl/2ss7AA)
 * [Golang Part 6 : Multiple Return Values](https://goo.gl/poeyY3)
 * [Golang Part 7 : Package io/ioutil](https://goo.gl/nAADsS)
+* [Golang Part 8 : Testing](https://goo.gl/3N42ci)
