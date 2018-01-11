@@ -8,4 +8,4 @@
 * [Golang Part 4 : Functions, Slices, Array and For Loops](https://goo.gl/W4KTkQ)
 * [Golang Part 5 : Receiver Functions](https://goo.gl/2ss7AA)
 * [Golang Part 6 : Multiple Return Values](https://goo.gl/poeyY3)
-* [Golang Part 7 : Package ioutil](https://goo.gl/nAADsS)
+* [Golang Part 7 : Package io/ioutil](https://goo.gl/nAADsS)
